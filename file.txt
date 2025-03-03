@@ -1,2 +1,6 @@
 Hello, Git!
+<<<<<<< HEAD
 This is an update.
+=======
+this is an update.
+>>>>>>> d2b41b6d4c086aa0018af98a5cfaad08d8fd0bf9
